@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Vaeb/VaeBot)](https://repl.it/github/Vaeb/VaeBot)
 # VaeBot - A Multi-Purpose Discord Bot
 
 ## Includes
